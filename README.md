@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya🪴</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Joystix&pause=1000&color=20F742&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya%F0%9F%AA%B4)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaamit18&label=Profile%20views&color=0e75b6&style=flat" alt="adityaamit18" /> </p>
 
 - 🔭 I’m currently working on **troi.ai**
