@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Joystix&pause=1000&color=20F742&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya%F0%9F%AA%B4)](https://git.io/typing-svg)
+![Banner](https://i.imgur.com/EjcKfSP.gif)
 <img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaamit18&label=Profile%20views&color=0e75b6&style=flat" alt="adityaamit18" /> </p>
 
