@@ -1,6 +1,9 @@
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header-gif" width="50%" height="10%" /> -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Joystix&pause=1000&color=20F742&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya%F0%9F%AA%B4)](https://git.io/typing-svg)
 
-<img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header-gif">
+<!-- <img align="right" alt="shauryaawasthi" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaamit18&label=Profile%20views&color=0e75b6&style=flat" alt="adityaamit18" /> </p>
 
