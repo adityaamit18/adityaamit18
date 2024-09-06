@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaamit18&label=Profile%20views&color=0e75b6&style=flat" alt="adityaamit18" /> </p>
 
-- 🔭 I’m currently working on **troi.ai**
+- 🔭 I’m currently working on **mockminds.ai (previously troi.ai)**
 
 - 🌱 I’m currently learning **DS Algo & Frontend**
 
